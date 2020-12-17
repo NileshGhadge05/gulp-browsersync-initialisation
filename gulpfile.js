@@ -46,6 +46,7 @@ exports.default = series(
   scssTask,
   jsTask,
   browsersyncServe,
+  browsersyncReload,
   watchTask
 );
 
